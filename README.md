@@ -17,6 +17,10 @@ This lab is built around the Contacts class, which has four attributes:
 - choice - This attribute represents input from the user and is used to change the view.
 - index - This attribute keeps track of the particular contact whose information is to be displayed.
 
+Information class
+
+The Information class is used to store the information about a contact. These objects are elements in the self.contact_list. The constructor is going to ask the user to input the first name, last name, personal phone number, personal email, work phone number, work email, and work title
+
 ## Getting Started
 
 ### Dependencies
